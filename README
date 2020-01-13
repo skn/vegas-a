@@ -1,0 +1,16 @@
+This is the Network Simulator (ns-2) code for TCP Vegas-A, a
+Masters project of Srijith Nair (https://srijith.net). The work
+was carried out in 2002 at the National UNiversity of Singapore.
+
+The publications related to this work are as follows:
+
+[1] Srijith K. Nair, Lillykutty Jacob, Akkihebbal L. Ananda, 
+"TCP Vegas-A: Improving the performance of TCP Vegas", 
+Computer Communications, vol. 28, no. 4, pp. 429-440, 
+March 2005 
+
+[2] K.N. Srijith, Lillykutty Jacob and A.L. Ananda, 
+"TCP Vegas-A: Solving the Fairness and Rerouting Issues of 
+TCP Vegas", Proceedings of 22nd IEEE International Performance, 
+Computing, and Communications Conference (IPCCC) 2003, 
+pp. 309-316, Phoenix, Arizona, April 9 - 11, 2003. 
